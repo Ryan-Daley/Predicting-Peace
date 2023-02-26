@@ -1,1 +1,3 @@
-# To-Peace-Or-Not-To-Peace-
+# To-Peace-Or-Not-To-Peace?
+
+Using Natural Languge Processing to predict success of diplomatic peace talks...

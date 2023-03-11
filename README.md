@@ -1,5 +1,5 @@
 # To Peace or Not to Peace?
-### Using Natural Language Processing to Predict the Success of Diplomatic Efforts
+#### Using Natural Language Processing to Predict the Success of Diplomatic Efforts
 
 #### Introduction:
 International relations involve complex interactions between different countries and their representatives, including diplomats and politicians. These interactions often involve negotiations, treaties, and diplomatic efforts aimed at achieving mutual goals. The success of these diplomatic efforts is vital for maintaining peaceful relations between countries. In recent years, the use of data science and artificial intelligence has become increasingly popular in various fields. This research proposal aims to investigate the use of natural language processing to predict the success of diplomatic efforts.

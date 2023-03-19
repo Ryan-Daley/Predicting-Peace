@@ -1,4 +1,4 @@
-# To Peace or Not to Peace?
+# Predicting Peace
 #### Using Natural Language Processing to Predict the Success of Diplomatic Efforts
 
 #### Introduction:
